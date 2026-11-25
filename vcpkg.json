@@ -1,0 +1,13 @@
+{
+  "name": "gold-smc",
+  "version": "0.1.0",
+  "description": "Liquidity sweep + CHoCH + FVG strategy on XAU/USD",
+  "dependencies": [
+    {
+      "name": "curl",
+      "default-features": false,
+      "features": ["ssl"]
+    },
+    "nlohmann-json"
+  ]
+}

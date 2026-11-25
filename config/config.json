@@ -1,0 +1,14 @@
+{
+  "symbol": "XAU/USD",
+  "interval": "5min",
+  "output_size": 300,
+  "swing_lookback": 2,
+  "risk_reward": 2.0,
+  "min_fvg_size": 0.20,
+  "stop_buffer_usd": 0.30,
+  "sweep_lookback_candles": 30,
+  "max_candles_sweep_to_choch": 15,
+  "max_candles_choch_to_fvg": 10,
+  "session_filter_enabled": false,
+  "allowed_utc_hours": [[7, 11], [12, 16]]
+}

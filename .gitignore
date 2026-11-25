@@ -1,0 +1,8 @@
+build/
+.env
+*.o
+*.a
+*.so
+.vscode/
+.idea/
+cmake-build-*/

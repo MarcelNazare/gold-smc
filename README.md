@@ -244,6 +244,6 @@ see [`LICENSE`](LICENSE) for the full text.
 
 ## See also
 
-- **[`USAGE.md`](USAGE.md)** — install, config, troubleshooting, trading checklist, rate limits, file reference
+- **[`USAGE.md`](docs/USAGE.md)** — install, config, troubleshooting, trading checklist, rate limits, file reference
 - **[`config/config.json`](config/config.json)** — the only file you need to edit to tune the strategy
 - **[`tests/`](tests/)** — the strategy's expected behavior, expressed as assertions
